@@ -2,7 +2,8 @@
 
 ### Pre-requisites
     [1] Golang
-    [2] Minio server to store files
+    [2] Minio server to store files -- https://min.io/
+    [3] PostgreSql -- https://www.postgresql.org/
 
 ### Process To Use
 
